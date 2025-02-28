@@ -26,12 +26,6 @@ Hi there! 👋
 • <b>Tools & Others:</b> Docker, Git, SQLC, GORM, NHibernate
 
 
-<h3>📌 Projects</h3>
-
-• Currently working on a API using Go, GORM and PostgreSQL!
-
-• Exciting projects coming soon!
-
 
 <h3>📫 Get in Touch</h3>
 
