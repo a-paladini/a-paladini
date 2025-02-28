@@ -28,7 +28,7 @@ Hi there! 👋
 
 <h3>📌 Projects</h3>
 
-• Currently working on a job search API using Go, Gin, Swagger and GORM!
+• Currently working on a note-taking API using Go, Gin and SQLC!
 
 • Exciting projects coming soon!
 
