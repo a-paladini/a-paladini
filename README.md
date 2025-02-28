@@ -1,37 +1,43 @@
 Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate backend developer focused on building efficient and scalable applications. I love solving problems, learning new technologies, and constantly improving my skills.
+<p>Welcome to my GitHub profile! I'm a passionate backend developer focused on building efficient and scalable applications. I love solving problems, learning new technologies, and constantly improving my skills.</p>
 
-🚀 About Me
 
-💼 Currently working with .NET and Go
+<h3>🚀 About Me </h3>
 
-📚 Exploring Gin and SQLC for backend development
+• Currently working with .NET and Go
 
-🎯 Interested in REST APIs, software architecture and clean code
+• Exploring Gin and SQLC for backend development
 
-✍️ Also writing a novel in my free time!
+• Interested in REST APIs, software architecture and clean code
 
-🔧 Tech Stack
+• Also writing a novel in my free time!
 
-Languages: Go, C#, SQL
 
-Frameworks: .NET, Gin
 
-Databases: PostgreSQL, SQL Server
+<h3>🔧 Tech Stack</h3>
 
-Tools & Others: Docker, Git, SQLC, GORM, NHibernate
+• <b>Languages:</b> Go, C#, SQL
 
-📌 Projects
+• <b>Frameworks:</b> .NET, Gin
 
-🚧 Currently working on a job search API using Go, Gin, Swagger and GORM!
+• <b>Databases:</b> PostgreSQL, SQL Server
 
-🏗 Exciting projects coming soon!
+• <b>Tools & Others:</b> Docker, Git, SQLC, GORM, NHibernate
 
-📫 Get in Touch
 
-Email: aline.paladini05@gmail.com
+<h3>📌 Projects</h3>
 
-LinkedIn: https://www.linkedin.com/in/alinepaladini/
+• Currently working on a job search API using Go, Gin, Swagger and GORM!
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me!
+• Exciting projects coming soon!
+
+
+<h3>📫 Get in Touch</h3>
+
+• <b>Email:</b> aline.paladini05@gmail.com
+
+• <b>LinkedIn:</b> https://www.linkedin.com/in/alinepaladini/
+
+
+<p>Thanks for stopping by!  Feel free to explore my repositories and connect with me!</p>
