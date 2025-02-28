@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**a-paladini/a-paladini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate backend developer focused on building efficient and scalable applications. I love solving problems, learning new technologies, and constantly improving my skills.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working with .NET and Go
+
+📚 Exploring Gin and SQLC for backend development
+
+🎯 Interested in REST APIs, software architecture and clean code
+
+✍️ Also writing a novel in my free time!
+
+🔧 Tech Stack
+
+Languages: Go, C#, SQL
+
+Frameworks: .NET, Gin
+
+Databases: PostgreSQL, SQL Server
+
+Tools & Others: Docker, Git, SQLC, GORM, NHibernate
+
+📌 Projects
+
+🚧 Currently working on a job search API using Go, Gin, Swagger and GORM!
+
+🏗 Exciting projects coming soon!
+
+📫 Get in Touch
+
+Email: aline.paladini05@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/alinepaladini/
+
+Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me!
